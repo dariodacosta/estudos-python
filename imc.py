@@ -1,0 +1,5 @@
+altura = float(input("pedir altura: "))
+print(altura)
+peso = float(input("peso: "))
+imc = (peso/(altura*altura))
+print(imc)
