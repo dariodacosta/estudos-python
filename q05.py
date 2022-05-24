@@ -1,0 +1,1 @@
+print("exercicio 05")
