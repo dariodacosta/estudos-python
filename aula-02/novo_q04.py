@@ -2,5 +2,5 @@
 n1 = int(input('media 1: '))
 n2 = int(input('media 2: '))
 n3 = int(input('media 3: '))
-media = n1+n2+n3/2
-print('A media deles e de: ' , (n1+n2+n3/2))
+media = (n1+n2+n3)/3
+print('A media deles e de: ' , media)

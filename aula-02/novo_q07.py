@@ -2,4 +2,4 @@
 base = int(input('Valor da base: '))
 altura = int(input('Valor da altura: '))
 area = base*altura
-print('A area do retangulgo: ' , (base*altura))
+print('A area do retangulgo: ' , area)
