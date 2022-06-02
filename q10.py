@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 quantidade=int(input('por dia'))
 anos=int(input('anos de fumo'))
 cigarros=quantidade*(anos*365)

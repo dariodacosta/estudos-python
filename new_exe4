@@ -1,0 +1,6 @@
+a = int(input("digite um numero: "))
+b = int(input("digite outro numero: "))
+c=a
+a=b
+b=c
+print('novo valor' , (a,b))

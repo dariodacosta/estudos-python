@@ -1,0 +1,5 @@
+salario=float(input('salario atual'))
+porcentagem=float(input('porcentagem do novo salario'))
+novosalario=salario+(salario*(porcentagem/100))
+print(novosalario)
+print(novosalario-salario)
