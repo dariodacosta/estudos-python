@@ -1,10 +1,7 @@
-a = int(input("digite um numero"))
-b = int(input("digite outro numero"))
-if a > b:
-    print("a > b")
-elif a < b:
-    print("a < b")
+g1 = int(input("garrafa 1: "))
+g2 = int(input("garrafa 2: "))
+lucro_ou_Nlucro= (g1+g2)/2
+if lucro_ou_Nlucro >=7:    
+    print('lucro maior que: ')
 else:
-    print("b > a")
-
-print("fim do programa")
+    print('sem lucro')  
