@@ -5,17 +5,12 @@
 # c) C = (B –A) ( )
 # d) (B + A) <= C ( )
 # e) (C+A) > B ( )
-# a = bool(input(' A=: '))
-# b = bool(input(' B=: '))
-# c = bool(input(' C=: '))
-A = 3
-B = 7
-C = 4
+a = bool(input(' A=: '))
+b = bool(input(' B=: '))
+c = bool(input(' C=: '))
 
-
-print('a): ', (A+C)>B)
-print('b): ', (B>=(A+2))) 
-print('c): ', (C==(B-A)))
-print('d): ', (B+A)<=C)  
-print('e): ', (C+A)>B)
-
+print('a): ' , (a+c)>b)
+print('b): ' , (b>=(a+2))) 
+print('c): ' , (c==(b-a))) 
+print('d): ' , (b+a)<=c)  
+print('e): ' , (c+a)>b)
