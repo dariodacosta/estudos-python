@@ -1,0 +1,6 @@
+h_f = float(input('CALCULAR A ALTURA: '))
+h_m = float(input('CALCULAR A ALTURA: '))
+calculo_f = (72.7* h_f - 58)
+calculo_h = (62.1* h_m - 44.7)
+print('PESO IDEAL FEMENINA: ' , calculo_f)
+print('PESO IDEAL MASCULINA: ' , calculo_h)
