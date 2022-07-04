@@ -1,6 +1,3 @@
-from calendar import c
-
-
 a = int(input('lado: '))
 b = int(input('lado: '))
 c = int(input('lado: '))
